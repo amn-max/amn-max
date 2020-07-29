@@ -5,7 +5,6 @@
 - 🌱 I'm currently learning game developemnt using Unity C#, AI, ML
 - 👯 I'm looking to collaborate more with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source Projects
-- 📩 How to reach me: @ayushkuno
 - ⚡ Fun Fact: I ❤ to play pc games, build them, Huge Anime FAN 😘
 
 ### Connect with me:
@@ -31,4 +30,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+### Where to find me:
+<p><a href="https://github.com/CyberWorrior" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ayush-naik/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
