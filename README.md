@@ -2,10 +2,11 @@
 
 ## I'm a Student, Creator, Developer and Gamer!
 - 🔭 I'm currently working on Website back-end developement using PHP, Bootstrap
-- 🌱 I'm currently learning game developemnt using Unity C#
+- 🌱 I'm currently learning game developemnt using Unity C#, AI, ML
 - 👯 I'm looking to collaborate more with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source Projects
-- ⚡ Fun Fact: I love to play pc games also build them 
+- 📩 How to reach me: @ayushkuno
+- ⚡ Fun Fact: I ❤ to play pc games, build them, Huge Anime FAN 😘
 
 ### Connect with me:
 
