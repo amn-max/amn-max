@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush - aka [CyberWorrior] ✌
 
 ## I'm a Student, Creator, Developer and Gamer!
-- 🔭 I'm currently working on Website back-end developement using PHP, Bootstrap
+- 🔭 I'm currently working on Website back-end developement using node.js
 - 🌱 I'm currently learning game developemnt using Unity C#, AI, ML
 - 👯 I'm looking to collaborate more with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source Projects
