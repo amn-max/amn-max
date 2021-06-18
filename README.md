@@ -3,7 +3,6 @@
 ## I'm a Student, Creator, Developer and Gamer!
 - 🔭 I'm currently working on Website back-end developement using node.js
 - 🌱 I'm currently learning game developemnt using Unity C#, AI, ML
-- 👯 I'm looking to collaborate more with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source Projects
 - ⚡ Fun Fact: I ❤ to play pc games, build them, Huge Anime FAN 😘
 
