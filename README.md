@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush - aka [CyberWorrior] ✌
+### Hi there, I'm Ayush - aka [amn-max] ✌
 
 ## I'm a Student, Creator, Developer and Gamer!
 - 🔭 I'm currently working on Website back-end developement using node.js
