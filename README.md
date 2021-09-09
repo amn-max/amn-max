@@ -1,3 +1,5 @@
+![counter](https://endpysy6ssvpagf.m.pipedream.net)
+
 ### Hi there, I'm Ayush - aka [amn-max] ✌
 
 ## I'm a Student, Creator, Developer!
