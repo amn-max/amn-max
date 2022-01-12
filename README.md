@@ -1,5 +1,9 @@
 ![counter](https://endpysy6ssvpagf.m.pipedream.net)
 
+<p align="center">
+  <img src="https://giphy.com/embed/26xoplW0VhLLByrAY" width="240" height="auto"/>
+</p>
+
 ### Hi there, I'm Ayush - aka [amn-max] ✌
 
 ## I'm a Student, Creator, Developer!
