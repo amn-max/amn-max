@@ -7,9 +7,6 @@
 ### Hi there, I'm Ayush - aka [amn-max] ✌
 
 ## I'm a Student, Creator, Developer!
-- 🔭 I'm currently working on Website back-end developement using node.js
-- 🌱 I'm currently learning game developemnt using Unity C#, AI, ML
-- 🥅 2021 Goals: Contribute more to Open Source Projects
 
 <br />
 
