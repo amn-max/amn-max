@@ -1,7 +1,7 @@
 ![counter](https://endpysy6ssvpagf.m.pipedream.net)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xoplW0VhLLByrAY/giphy.gif" width="420" height="auto"/>
+  <img src="https://media.giphy.com/media/26xoplW0VhLLByrAY/giphy.gif" width="320" height="auto"/>
 </p>
 
 ### Hi there, I'm Ayush - aka [amn-max] ✌
